@@ -47,3 +47,10 @@ xgboost 1.6.2<br>
 ### Citation
 Please cite [MGStBot]() if you use the MGStBot dataset or this repository
 
+### Literature used
+[19] Shangbin Feng, Herun Wan, Ningnan Wang, and Minnan Luo. Botrgcn: Twitter bot detection with relational graph convolutional networks. Proceedings of the 2021 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, 2021. 1, 3, 5, 7, 11, 12<br>
+
+[60] Kai-Cheng Yang, Onur Varol, Pik-Mai Hui, and Filippo Menczer. Scalable and generalizable social bot detection through data selection. In AAAI, 2020. 1, 3, 11, 12<br>
+
+[34] Niyaz Jalal and Kayhan Zrar Ghafoor. Machine learning algorithms for detecting and analyzing social bots using a novel dataset. ARO-THE SCIENTIFIC JOURNAL OF KOYA
+UNIVERSITY, 2022. 3, 11, 12<br>
